@@ -1,0 +1,50 @@
+.container{
+   width: 80%;
+   margin: auto
+}
+
+.row{
+   display: flex;
+   justify-content: space-between;
+}
+
+.input-style{
+   width: 400px;
+   height: 30px;
+}
+
+.input-style2{
+   width: 400px;
+   height: 30px;
+}
+
+.input-style3{
+   width: 250px;
+   height: 30px;
+}
+
+.textarea-style{
+   width: 1000px;
+   height: 40px;
+}
+
+.btn-style{
+  background-color: rgb(56, 196, 196);
+  padding: 10px 40px;
+  border-radius: 10px;
+  color: black;
+  font-weight: 600;
+  cursor: pointer;
+  border:none;
+}
+
+.btn-style:hover{
+   color: rgb(33, 151, 155);
+   background-color: azure;
+}
+.words{
+  font-weight: 600;
+  font-size: 20px;
+}
+
+
